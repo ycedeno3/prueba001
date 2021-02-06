@@ -1,0 +1,7 @@
+<suite name="pruebaCurso">
+   <test name="prueba">
+		<packages>
+			<package name="test.validarTituloTest2" />
+		</packages>
+   </test>
+</suite>
