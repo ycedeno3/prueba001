@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+    <test name="Test">
+        <classes>
+            <class name="test.validarTituloTest"/>
+            <!--        Profesor, se comento este suite de prueba segun lo comentado en correo -->
+            <!--        <class name="test.printTagsTest"/> -->
+            <class name="test.loginToNetflixErrorTest"/>
+            <class name="test.inicioSessionPageTest"/>
+            <class name="test.fakeEmailTest"/>
+            <class name="test.dataProviderEmailTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
